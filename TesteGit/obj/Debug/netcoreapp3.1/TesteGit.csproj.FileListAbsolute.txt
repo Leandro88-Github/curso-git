@@ -1,0 +1,14 @@
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\jonat\Desktop\C#\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
